@@ -11,12 +11,34 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 - Acqua Orsini
 - Lorenzo
 - Umberto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
 
 i mentor sono:
 - Roberto
 - Emanuele
 
 Partecipazione straordinario di GUARDIOMEN!
-
-lo studente più forte è:
-- Marcello
