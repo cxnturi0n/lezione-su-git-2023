@@ -5,6 +5,7 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 Chuck Norris
 Il bicipite di Emanuele
 Batman
+Peppone
 
 i mentor sono:
 - Roberto
