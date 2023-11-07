@@ -5,8 +5,14 @@ lezione sui fork, gli studenti della cyberhackademy 2023 sono (potete usare anch
 Chuck Norris
 Il bicipite di Emanuele
 Batman
-Lorenzo
+- Lorenzo
+- Umberto
 
 i mentor sono:
 - Roberto
 - Emanuele
+
+Partecipazione straordinario di GUARDIOMEN!
+
+lo studente più forte è:
+- Marcello
