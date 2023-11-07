@@ -11,3 +11,6 @@ i mentor sono:
 - Emanuele
 
 Partecipazione straordinario di GUARDIOMEN!
+
+lo studente più forte è:
+- Marcello
