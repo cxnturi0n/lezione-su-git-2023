@@ -6,3 +6,6 @@ Chuck Norris
 Il bicipite di Emanuele
 Batman
 
+i mentor sono:
+- Roberto
+- Emanuele
