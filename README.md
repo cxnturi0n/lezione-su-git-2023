@@ -9,3 +9,6 @@ Batman
 i mentor sono:
 - Roberto
 - Emanuele
+
+lo studente più forte è:
+- Marcello
